@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains the code used in the paper titled *Runtime Analysis of the $(\mu + 1)$ GA: Provable Speed-Ups from Strong Drift towards Diverse Populations* (AAAI 2024).
+This repository contains the code used in the paper titled *Runtime Analysis of the* $(\mu + 1)$ *GA: Provable Speed-Ups from Strong Drift towards Diverse Populations* (AAAI 2024).
 In order to reproduce the results mentioned in Section 6 of this paper, please follow the instructions below.
 
 ## Instructions
